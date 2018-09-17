@@ -1,0 +1,50 @@
+_repo: Chronique-de-1831-a-1862-Tome-1-de-4_52380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dino, Dorothée, duchesse de
+    aliases:
+    - Dino, Dorothée de
+    - Dorothea, Herzogin von Sagan
+    - De Dino, Dorothée, duchesse
+    - Dorothée, princesse de Courlande
+    - Dorothea, Duchess of Sagan
+    - Biron, Dorothea von
+    - Dino, Dorothee, duchesse de
+    - Courlande, Dorothée de, duchesse de Dino
+    - Talleyrand-Périgord, Dorothée von Biron, duchesse de
+    - Sagan, Dorothée, princesse de
+    birthdate: 1793
+    deathdate: 1862
+    gutenberg_agent_id: '31551'
+    url: http://www.gutenberg.org/2009/agents/31551
+    wikipedia: http://fr.wikipedia.org/wiki/Doroth%C3%A9e_de_Courlande
+  editor:
+    agent_name: Radziwill, Marie Dorothea Elisabeth de Castellane, Fürstin
+    aliases:
+    - De Castellane, Marie Dorothea Elisabeth, Fürstin
+    - Radziwill, Marie Dorothea Elisabeth de Castellane, Furstin
+    - Castellane, Marie Dorothea Elisabeth de, Fürstin
+    birthdate: 1840
+    deathdate: 1915
+    gutenberg_agent_id: '31550'
+    url: http://www.gutenberg.org/2009/agents/31550
+description: ''
+gutenberg_bookshelf:
+- FR Chroniques
+- FR Biographie, Mémoires, Journal intime, Correspondance
+gutenberg_issued: '2016-06-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52380'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DC'
+- !lcsh 'France -- Foreign relations -- 1830-1848'
+- !lcsh 'Europe -- Politics and government -- 1815-1848'
+- GITenberg
+title: Chronique de 1831 à 1862, Tome 1 (de 4)
+url: http://www.gutenberg.org/ebooks/52380
